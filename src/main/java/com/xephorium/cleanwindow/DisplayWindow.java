@@ -1,9 +1,11 @@
 /*
-  Chris Cruzen                            06/04/2014
+  Chris Cruzen                        Personal Project
+  "DisplayWindow.java"                      06.04.2014
 
-  This program creates an object of the Clean_Window
-  class and demonstrates proper parameter/method 
-  usage.
+  Clean Window
+
+    This program creates an object of the Clean_Window
+  class and demonstrates proper parameter/method usage.
 
 */
 package com.xephorium.cleanwindow;
@@ -18,7 +20,6 @@ public class DisplayWindow
 
         example.create_window();
         example.display_window(true);
-
 
     }
 }
